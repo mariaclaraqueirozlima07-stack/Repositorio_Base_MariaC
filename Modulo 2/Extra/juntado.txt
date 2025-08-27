@@ -1,0 +1,2 @@
+meu_arquivo.txt
+compras.txt
